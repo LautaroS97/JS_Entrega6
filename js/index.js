@@ -37,7 +37,7 @@ function seleccionarLautaro() {
     alert(`INFORMACIÓN \n NACIÓN: ${seleccionado.nacion}\n PODERES: ${seleccionado.poderes}\n ARMA: ${seleccionado.arma}`);
 }
 
-function seleccionarNilak() {
+function seleccionarAlek() {
     var x = document.getElementById("alek").style;  
     x.opacity="100%";
     x.border="4px solid #f59f15";
